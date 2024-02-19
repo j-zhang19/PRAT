@@ -1,9 +1,6 @@
-# Rain nowcasting 🌧️
+# Rain nowcasting
 
-## Roadmap
+main files :
 
-- [x] review state of the art methods
-- [x] review recent methods
-- [ ] choose one of them
-- [ ] implement it
-...
+- models/trajGRU.py
+- models/refnet.py
